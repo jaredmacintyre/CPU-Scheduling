@@ -1,4 +1,8 @@
+## CPU Scheduling Algorithm
+
 A CPU scheduling algorithm that simulates the work done managing threads by a CPU. Outputs detailed scheduling and usage data to the terminal.
+
+## Setup
 
 1. Clone this repo using `https://github.com/jaredmacintyre/CPU-Scheduling.git`
 
